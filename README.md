@@ -1,3 +1,5 @@
+<div align="center"> 
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Yoonsung's%20github&fontSize=90" />
 <h1 align = "center">🧑🏻‍💻YoonSung is coding...🧑🏻‍💻</h1>
 
@@ -18,11 +20,20 @@
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 </p>
 
+<h2 align="center"><b>BaekJoon</b></h2>
+<hr>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jang0648)](https://solved.ac/jang0648/)
+<br>
 
+<h2 align="center"><b>My Stats</b></h2>
+<hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myNameIsYoonSungJang&show_icons=true&theme=tokyonight)
+
+
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=footer"/>
 
@@ -40,3 +51,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</div>
