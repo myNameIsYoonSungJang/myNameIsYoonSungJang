@@ -4,6 +4,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Yoonsung's%20github&fontSize=90" />
 <h1 align = "center">🧑🏻‍💻YoonSung is coding...🧑🏻‍💻</h1>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FmyNameIsYoonSungJang&count_bg=%2300ABB3&title_bg=%233C4048&icon=staticman.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <h2 align="center"><b>📚 stack 📚</b></h2>
 <hr>
 </br>
@@ -37,28 +39,10 @@
 <h2 align="center"><b>My Stats</b></h2>
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myNameIsYoonSungJang&show_icons=true&theme=tokyonight)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myNameIsYoonSungJang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FmyNameIsYoonSungJang&count_bg=%2300ABB3&title_bg=%233C4048&icon=staticman.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=myNameIsYoonSungJang&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yoonsung's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myNameIsYoonSungJang&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
 
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&fontSize=65&text=Thanks&section=footer"/>
-
-<!--
-**myNameIsJangYoonSung/myNameIsJangYoonSung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 </div>
