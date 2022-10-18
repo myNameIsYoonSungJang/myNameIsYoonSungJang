@@ -11,7 +11,7 @@
 
   - ❤️ I love Python, and building fun experiments on type-level
 
-  - 💬 Do you want to know me more? [here!](https://github.com/myNameIsYoonSungJang)
+  - 💬 Do you want to know me more? [here!](https://github.com/myNameIsYoonSungJang?tab=repositories)
 
 <h2 align="center"><b>📚 stack 📚</b></h2>
 <hr>
