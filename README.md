@@ -1,10 +1,17 @@
 
-<div align="center"> 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Yoonsung's%20github&fontSize=90" />
+<p align="center"><a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Yoonsung's%20github&fontSize=90"/></a></p>
 <h1 align = "center">🧑🏻‍💻YoonSung is coding...🧑🏻‍💻</h1>
+<br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FmyNameIsYoonSungJang&count_bg=%2300ABB3&title_bg=%233C4048&icon=staticman.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  # **About me**
+  
+  - 🏫 I'm in Department of Big Data, Hallym University.
+
+  - 🍃 I am currently studying Spring Boot.
+
+  - ❤️ I love Python, and building fun experiments on type-level
+
+  - 💬 Do you want to know me more? [here!](https://github.com/myNameIsYoonSungJang)
 
 <h2 align="center"><b>📚 stack 📚</b></h2>
 <hr>
@@ -26,7 +33,7 @@
 ##  💻 오픈소스SW 개발도구 커리큘럼
 
 | Week | 출석 | 과제 |커리큘럼 내용 |
-| -------- | -- | -- |-------------- |
+| -------- | :--: | :--: |-------------- |
 | 1주차   | ☑️ | ☑️ | 수업 오리엔테이션 |
 | 2주차   | ☑️ | ☑️ | 리눅스 환경구성, 리눅스 명령어 학습 |
 | 3주차   | ☑️ | ☑️ | VM머신 운용 및 우분투 설치, GCP 운용, SSH클라이언트 사용 |
@@ -42,7 +49,6 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=myNameIsYoonSungJang&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yoonsung's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myNameIsYoonSungJang&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FmyNameIsYoonSungJang&count_bg=%2300ABB3&title_bg=%233C4048&icon=staticman.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&fontSize=65&text=Thanks&section=footer"/>
-</div>
+<p align = "center"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&fontSize=65&text=Thanks&section=footer"/></p>
