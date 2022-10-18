@@ -44,7 +44,7 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&fontSize=65&text=Thanks&section=footer"/>
 
 <!--
 **myNameIsJangYoonSung/myNameIsJangYoonSung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
