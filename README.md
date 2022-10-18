@@ -11,7 +11,7 @@
 
   - ❤️ I love Python, and building fun experiments on type-level
 
-  - 💬 Do you want to know me more? [here!](https://github.com/myNameIsYoonSungJang?tab=repositories)
+  - 💬 Do you want to know me more? [here!](http://34.64.32.187:8000/)
 
 <h2 align="center"><b>📚 stack 📚</b></h2>
 <hr>
@@ -44,7 +44,7 @@
 | _midterm_|  |  | 중간고사 |
 
 <h2 align="center"><b>My Stats</b></h2>
-<hr>
+---
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=myNameIsYoonSungJang&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yoonsung's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myNameIsYoonSungJang&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
