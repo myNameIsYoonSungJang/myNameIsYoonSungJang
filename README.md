@@ -30,8 +30,16 @@
 | 4주차   | ☑️ | ☑️ | 오픈소스 특강 - 고려대학교 김중헌 교수, 도커 사용법 및 운용 |
 | 5주차   | ☑️ | ☑️ | 도커 및 리눅스 명령어 심화, wordpress 사용법, tmux 사용법 |
 | 6주차   |  😍 |  😍 | 공강 |
-| 7주차   | ☑️ |  | 오프노스 저작권 특강, git 사용법, github.io 및 README 꾸미기 |
-| _midterm_|  |  | 중간고사 |
+| 7주차   | ☑️ | ☑️ | 오프노스 저작권 특강, git 사용법, github.io 및 README 꾸미기 |
+| _midterm_| ☑️ | ☑️ | 중간고사 |
+| 9주차   | ☑️ | ☑️ | nodejs 설치 및 기초, bootstrap 기능 및 사용법 |
+| 10주차  | ☑️ | 😍 | 쉘 스크립트 |
+| 11주차  | ☑️ | ☑️ | mssql과 mongodb를 nodejs에 연동, db 데이터 입력 |
+| 12주차  | ☑️ | ☑️ | gcp와 mongodb연결 list.ejs를 사용하여 db 데이터 출력 |
+| 13주차  | ☑️ | ☑️ | nodejs로 db 데이터 접근 및 관리 |
+| 14주차  | ☑️ | 😍 | term-project 중간발표 |
+| 15주차  | 😍 | 😍 | 종강 |
+| 16주차  |     |    | term-project 최종 보고서 제출 |
 
 <h2 align="center"><b>My Stats</b></h2>
 
