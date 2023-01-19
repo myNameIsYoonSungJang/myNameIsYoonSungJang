@@ -39,7 +39,7 @@
 | 13주차  | ☑️ | ☑️ | nodejs로 db 데이터 접근 및 관리 |
 | 14주차  | ☑️ | 😍 | term-project 중간발표 |
 | 15주차  | 😍 | 😍 | 종강 |
-| 16주차  |     |    | term-project 최종 보고서 제출 |
+| 16주차  |  ☑️   |  ☑️  | term-project 최종 보고서 제출 |
 
 <h2 align="center"><b>My Stats</b></h2>
 
