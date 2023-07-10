@@ -20,7 +20,16 @@
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 </p>
 
+## 진행중인 대회
+> - Dacon SW중심대학 공동 AI 경진대회 2023
+>    * 위성 이미지 건물 영역 분할 (Satellite Image Building Area Segmentation)
+
 ## 프로젝트
+### 사람 나이 예측하기 (Deep Learning)
+> - python, CNN
+> - 2022.05 ~ 2022.06
+- 한림대학교 딥러닝 기초 과목 프로젝트
+- CNN model, adam 등을 사용
 ### 땅파기 게임
 > - Unity, C#
 > - 2022.10 ~ 2022.11
