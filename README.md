@@ -1,6 +1,5 @@
 
 <p align="center"><a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Yoonsung's%20github&fontSize=90"/></a></p>
-<h1 align = "center">🧑🏻‍💻YoonSung is coding...🧑🏻‍💻</h1>
 <br>
 
 
