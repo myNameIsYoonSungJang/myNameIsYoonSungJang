@@ -3,26 +3,31 @@
 <br>
 
 
-<h2 align="center"><b>📚 stack 📚</b></h2>
-</br>
+<h2 align="center"><b>📚 main_stack 📚</b></h2>
 <p align="center">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
+</p>
+<br>
+<h2 align="center"><b>📚 sub_stack 📚</b></h2>
+<p align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-<br>
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 </p>
 
 ## 진행중인 대회
 > - Dacon SW중심대학 공동 AI 경진대회 2023
 >    * 위성 이미지 건물 영역 분할 (Satellite Image Building Area Segmentation)
-> - 네이버 소프트웨어야 놀자 대학생 멘토 2023 (경상권 초등교육 멘토링)
+> - 네이버 소프트웨어야 놀자 대학생 멘토 2023 (경상권 초등교육 AI 멘토링)
 
 ## 프로젝트
 ### 사람 나이 예측하기 (Deep Learning)
@@ -63,7 +68,7 @@
 ## 교외 활동내역
 > - [2023.06.28] 강원SW페스티벌 - 원주 연세대 미래캠퍼스 코딩 경진대회
 > - [2023.07.03 ~ 2023.07.28] Dacon SW중심대학 공동 AI 경진대회 2023 - 위성 이미지 건물 영역 분할
-> - [2023.07.24 ~ 2023.08.31] 네이버 소프트웨어야 놀자 대학생 멘토 2023 (경상권 초등교육 멘토링)
+> - [2023.07.24 ~ 2023.08.31] 네이버 소프트웨어야 놀자 대학생 멘토 2023 (경상권 초등교육 AI 멘토링)
 
 <h2 align="center"><b>My Stats</b></h2>
 
