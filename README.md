@@ -1,6 +1,5 @@
 
 <p align="center"><a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Yoonsung's%20github&fontSize=90"/></a></p>
-<br>
 
 
 <h2 align="center"><b>📚 main_stack 📚</b></h2>
