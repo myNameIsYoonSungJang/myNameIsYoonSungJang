@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 </p>
 
-## 진행중인 대회
+## 진행중인 활동
 > - Dacon SW중심대학 공동 AI 경진대회 2023
 >    * 위성 이미지 건물 영역 분할 (Satellite Image Building Area Segmentation)
 > - 네이버 소프트웨어야 놀자 대학생 멘토 2023 (경상권 초등교육 AI 멘토링)
