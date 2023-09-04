@@ -20,15 +20,15 @@
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> -->
 </p>
 
 ## 진행중인 활동
-> - Dacon SW중심대학 공동 AI 경진대회 2023
->    * 위성 이미지 건물 영역 분할 (Satellite Image Building Area Segmentation)
-> - 네이버 소프트웨어야 놀자 대학생 멘토 2023 (경상권 초등교육 AI 멘토링)
+> - ##
 
 ## 프로젝트
+### 
+
 ### 사람 나이 예측하기 (Deep Learning)
 > - python, CNN
 > - 2023.05 ~ 2023.06
@@ -66,7 +66,7 @@
 
 ## 교외 활동내역
 > - [2023.06.28] 강원SW페스티벌 - 원주 연세대 미래캠퍼스 코딩 경진대회
-> - [2023.07.03 ~ 2023.07.28] Dacon SW중심대학 공동 AI 경진대회 2023 - 위성 이미지 건물 영역 분할
+> - [2023.07.03 ~ 2023.07.28] Dacon SW중심대학 공동 AI 경진대회 2023 - 위성 이미지 건물 영역 분할 (Satellite Image Building Area Segmentation)
 > - [2023.07.24 ~ 2023.08.31] 네이버 소프트웨어야 놀자 대학생 멘토 2023 (경상권 초등교육 AI 멘토링)
 
 <h2 align="center"><b>My Stats</b></h2>
