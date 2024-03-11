@@ -27,7 +27,7 @@
 </p>
 
 ## 진행중인 활동
-
+* Capston Design Predict_Stock_Price_with_NewsData
 ## 프로젝트
 ### 
 
