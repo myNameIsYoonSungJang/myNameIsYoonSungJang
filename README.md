@@ -31,7 +31,7 @@
 ## 프로젝트
 ### 
 
-### Capston Design Predict_Stock_Price_with_NewsData
+### Capston Design Predict_Stock_Price_with_NewsData (Organization 참고)
 > - python, pytorch, bert-pretrained, prophet
 > - 2024.03 ~ 2024.05
 - 한림대학교 Capston Design 프로젝트
