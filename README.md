@@ -27,15 +27,19 @@
 </p>
 
 ## 진행중인 활동
-* Capston Design Predict_Stock_Price_with_NewsData
+* 강화학습 프로젝트 (사용자 맞춤형 메뉴 추천 알고리즘)
 ## 프로젝트
 ### 
 
+### Capston Design Predict_Stock_Price_with_NewsData
+> - python, pytorch, bert-pretrained, prophet
+> - 2024.03 ~ 2024.05
+- 한림대학교 Capston Design 프로젝트
+- 뉴스데이터 + 시계열데이터 -> 주가예측
 ### 사람 나이 예측하기 (Deep Learning)
 > - python, CNN
 > - 2023.05 ~ 2023.06
 - 한림대학교 딥러닝 기초 과목 프로젝트
-- CNN model, adam 등을 사용
 ### 땅파기 게임
 > - Unity, C#
 > - 2022.10 ~ 2022.11
@@ -45,8 +49,6 @@
 > - Html, Css, Js, NodeJs
 > - 2022.11 ~ 2022.12
 - 부모님이 신조어를 잘 모르는 경우가 많아 제작한 웹 사이트 [개인 프로젝트]
-- 신조어 테스트, 사전(공부), 최종 시험 으로 이루어져 있다
-- 기존에 있던 신조어 사이트들은 테스트만 할 수 있지만, 이 사이트에선 퀴즈, 공부, 테스트를 한번에 할 수 있는 장점이 있다
 
 ## 연구실
 |date|content|Location|
@@ -66,6 +68,7 @@
 > - [2023.01 ~ 2023.02] 22년 동계 방학 pre-캡스톤디자인
 > - [2023.03 ~] 정보과학대학 소프트웨어학부 축구동아리 `DEFY` 회장
 > - [2023.03 ~] 정보과학대학 소프트웨어학부 콘텐츠IT전공 학생회 `Dream` 복지국장
+> - [2024.03 ~ 2024.05] 24년도 1학기 Capston Design Project
 
 ## 교외 활동내역
 > - [2023.04.19] 프로그래머스 PCCP 264점
