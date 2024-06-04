@@ -40,8 +40,7 @@
 ### Humpback Whale Identification Challenge (Kaggle Competition)
 > - python, resnet18-pretrained
 > - 2023.11.20 ~ 2023.12.10
-- 한림대학교 Capston Design 프로젝트
-- 뉴스데이터 + 시계열데이터 -> 주가예측
+- 영상처리와 딥러닝 기말 프로젝트
 ### 사람 나이 예측하기 (Deep Learning)
 > - python, CNN
 > - 2023.05 ~ 2023.06
